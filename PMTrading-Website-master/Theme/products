@@ -1,0 +1,666 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+
+<!-- Mirrored from d29u17ylf1ylz9.cloudfront.net/ponno/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 May 2020 12:40:24 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>About || Ponno eCommerce Bootstrap 4 Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="img/favicon.ico">
+    <!-- Fontawesome css -->
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <!-- Animate css -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Themify Icon css -->
+    <link rel="stylesheet" href="css/themify-icons.css">
+    <!-- Stroke Gap Icon css -->
+    <link rel="stylesheet" href="css/stroke-gap.css">
+    <!-- Material Design Iconic Font css -->
+    <link rel="stylesheet" href="css/material-design-iconic-font.min.css">
+    <!-- Nice select css -->
+    <link rel="stylesheet" href="css/nice-select.css">
+    <!-- Jquery fancybox css -->
+    <link rel="stylesheet" href="css/jquery.fancybox.css">
+    <!-- Jquery ui price slider css -->
+    <link rel="stylesheet" href="css/jquery-ui.min.css">
+    <!-- Meanmenu css -->
+    <link rel="stylesheet" href="css/meanmenu.min.css">
+    <!-- Owl carousel css -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <!-- Slick Slider css -->
+    <link rel="stylesheet" href="css/slick.css">
+    <!-- Bootstrap css -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Custom css -->
+    <link rel="stylesheet" href="css/default.css">
+    <!-- Main css -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Responsive css -->
+    <link rel="stylesheet" href="css/responsive.css">
+
+    <!-- Modernizer js -->
+    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+</head>
+
+<body>
+    <!--[if lte IE 9]>
+		<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+	<![endif]-->
+
+    <!-- Main Wrapper Start Here -->
+    <div class="wrapper">
+        <!-- Header Area Start Here -->
+          <header class="header-area">
+            <div class="header-top" style="padding:5px;">
+                <div class="container">
+                    <div class="row align-items-center text-center text-md-left">
+                        <!-- Logo Start -->
+                        <div class="col-md-3 col order-1 order-md-1 mb-sm-0">
+                            <div class="logo">
+                                <a href="index.html"><img src="img/logo/rsz_1rsz_logocd.png" alt="logo-img"></a>
+                            </div>
+                        </div>
+                        <!-- Logo End -->
+                        <!-- Search Box Start Here -->
+                        <div class="col-md-6  order-3 order-md-2">
+                            <div class=" categorie-search-box">
+                           
+                            </div>    
+                        </div>
+                        <!-- Search Box End Here -->
+                        <!-- Cart Box Start Here -->
+                        <div class="col-md-3 col order-2 order-md-3 mb-sm-30">
+                            <div class="cart-box float-md-right">
+                                <div class="drodown-show">
+                                    <a href="#">
+                                        <span class="total-pro" > Delivering Service & Quality</span>
+                                    </a>
+                                    <ul class="dropdown cart-box-width">
+                                        <li>
+                                            <!-- Cart Box Start -->
+                                            <div class="single-cart-box">
+                                                <div class="cart-img">
+                                                    <a href="#">
+                                                        <img src="img/products/p1.jpg" alt="cart-image">
+                                                    </a>
+                                                    <span class="pro-quantity">1X</span>
+                                                </div>
+                                                <div class="cart-content">
+                                                    <h6>
+                                                        <a href="product-details.html">Printed Summer Red </a>
+                                                    </h6>
+                                                    <span class="cart-price">27.45</span>
+                                                    <span>Size: S</span>
+                                                    <span>Color: Yellow</span>
+                                                </div>
+                                                <a class="del-icone" href="#">
+                                                    <span class="ti-close"></span>
+                                                </a>
+                                            </div>
+                                            <!-- Cart Box End -->
+                                            <!-- Cart Box Start -->
+                                            <div class="single-cart-box">
+                                                <div class="cart-img">
+                                                    <a href="#">
+                                                        <img src="img/products/p2.jpg" alt="cart-image">
+                                                    </a>
+                                                    <span class="pro-quantity">1X</span>
+                                                </div>
+                                                <div class="cart-content">
+                                                    <h6>
+                                                        <a href="product-details.html">Printed Round Neck</a>
+                                                    </h6>
+                                                    <span class="cart-price">45.00</span>
+                                                    <span>Size: XL</span>
+                                                    <span>Color: Green</span>
+                                                </div>
+                                                <a class="del-icone" href="#">
+                                                    <span class="ti-close"></span>
+                                                </a>
+                                            </div>
+                                            <!-- Cart Box End -->
+                                            <!-- Cart Footer Inner Start -->
+                                            <div class="cart-footer">
+                                                <ul class="price-content">
+                                                    <li>Subtotal
+                                                        <span>$57.95</span>
+                                                    </li>
+                                                    <li>Shipping
+                                                        <span>$7.00</span>
+                                                    </li>
+                                                    <li>Taxes
+                                                        <span>$0.00</span>
+                                                    </li>
+                                                    <li>Total
+                                                        <span>$64.95</span>
+                                                    </li>
+                                                </ul>
+                                                <div class="cart-actions text-center">
+                                                    <a class="cart-checkout" href="checkout.html">Checkout</a>
+                                                </div>
+                                            </div>
+                                            <!-- Cart Footer Inner End -->
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Cart Box End Here -->
+                    </div>
+                </div>
+            </div>
+            <div class="header-bottom blue-bg header-sticky">
+                 <div class="container">
+                        <div class="row align-items-center">
+                            <!-- Menu Area Start Here -->
+                            <div class="col-lg-10 d-none d-lg-block">
+                                <nav>
+                                    <ul class="header-menu-list">
+                                        <li class="active">
+                                            <a  href="index.html">home</a>
+                                      
+                                        </li>
+										  <li>
+                                                    <a href="about.html">about us</a>
+                                                </li>
+								
+											 <li>
+                                                <a href="services.html">services</a>
+                                            </li>
+												 <li>
+                                                <a href="services2.html">services</a>
+                                            </li>
+                                      
+									  	 <li>
+                                                <a href="services.html">products</a>
+                                            </li>
+                                        <li><a href="contact.html">contact us</a></li>
+                                    
+                                    </ul>
+                                </nav>
+                            </div>
+                            <!-- Menu Area End Here -->
+                            <!-- Cart Box Start Here -->
+                            <div class="col-lg-2">
+                                <div class="setting-box float-right">
+                                    <ul>
+                                        <li class="drodown-show"><a href="#"><span class="ti-settings"></span></a>
+                                            <!-- Currency & Language Selection Start -->
+                                            <ul class="dropdown cart-box-width currency-selector">
+                                                <li>
+                                                    <h3>My Account </h3>
+                                                    <ul>
+                                                        <li><a href="register.html">Register</a></li>
+                                                        <li><a href="login.html">Login</a></li>
+                                                        <li><a href="account.html">My Account</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <h3>Currency: USD</h3>
+                                                    <ul>
+                                                        <li><a href="#">€ Euro</a></li>
+                                                        <li><a href="#">£ Pound Sterling</a></li>
+                                                        <li><a href="#">$ US Dollar</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <h3>Language: EN-GB</h3>
+                                                    <ul>
+                                                       <li><a href="#"><img src="img/header/1.jpg" alt="lang-icon"> English</a></li>
+                                                       <li><a href="#"><img src="img/header/2.jpg" alt="lang-icon"> Germany</a></li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                            <!-- Currency & Language Selection End -->
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <!-- Cart Box End Here -->
+                        </div>
+                        <!-- Row End -->
+                        <!-- Mobile Menu Start Here -->
+                        <div class="mobile-menu d-block d-lg-none" data-menu="Menu">
+                            <nav>
+                                <ul>
+                                    <li>
+                                        <a href="index.html">home</a>
+                                        <!-- Home Version Dropdown Start -->
+                                        <ul>
+                                            <li>
+                                                <a href="index.html">Home Style 1</a>
+                                            </li>
+                                            <li>
+                                                <a href="home-2.html">Home Style 2</a>
+                                            </li>
+                                        </ul>
+                                        <!-- Home Version Dropdown End -->
+                                    </li>
+                                    <li>
+                                        <a href="#">Mobile</a>
+                                        <!-- Men Accessories Dropdown Start -->
+                                        <ul class="submobile-mega-dropdown">
+                                            <li>
+                                                <a href="#">Electra Shope</a>
+                                                <!-- Watches Dropdown Start -->
+                                                <ul>
+                                                    <li>
+                                                        <a href="shop.html">Integrated Systems</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">DJI</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">Power Vision</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">Ryze Tech</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">Yuneec</a>
+                                                    </li>
+                                                </ul>
+                                                <!-- Watches Dropdown End -->
+                                            </li>
+                                            <li>
+                                                <a href="#">Stroller Shop</a>
+                                                <!-- Shoes Dropdown Start -->
+                                                <ul>
+                                                    <li>
+                                                        <a href="shop.html">Joggers</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">Lightweight</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">Prams</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">Standard</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">Travel Systems</a>
+                                                    </li>
+                                                </ul>
+                                                <!-- Shoes Dropdown End -->
+                                            </li>
+                                            <li>
+                                                <a href="#">smartwatch Shop</a>
+                                                <!-- Bags Dropdown Start -->
+                                                <ul>
+                                                    <li>
+                                                        <a href="shop.html">Men's Watches</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">Ladies Watches</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">Sport Watch</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">Wrist Watches</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">Watch Bands</a>
+                                                    </li>
+                                                </ul>
+                                                <!-- Bags Dropdown End -->
+                                            </li>
+                                            <li>
+                                                <a href="#">Scooter Shop</a>
+                                                <!-- Bags Dropdown Start -->
+                                                <ul>
+                                                    <li>
+                                                        <a href="shop.html">Pro Scooters</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">Custom Scooters</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">Kids Scooters</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">Dirt Scooters</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="shop.html">Adult / Commuter Scooters</a>
+                                                    </li>
+                                                </ul>
+                                                <!-- Bags Dropdown End -->
+                                            </li>
+                                        </ul>
+                                        <!-- Men Accessories Dropdown End -->
+                                    </li>
+                                    <li>
+                                        <a href="#">shop</a>
+                                        <!-- Mobile Menu Dropdown Start -->
+                                        <ul>
+                                            <li>
+                                                <a href="shop.html">Shop</a>
+                                            </li>
+                                            <li>
+                                                <a href="product-details.html">product details</a>
+                                            </li>
+                                            <li>
+                                                <a href="compare.html">compare</a>
+                                            </li>
+                                            <li>
+                                                <a href="cart.html">cart</a>
+                                            </li>
+                                            <li>
+                                                <a href="checkout.html">checkout</a>
+                                            </li>
+                                            <li>
+                                                <a href="wishlist.html">wishlist</a>
+                                            </li>
+                                        </ul>
+                                        <!-- Mobile Menu Dropdown End -->
+                                    </li>
+                                    <li>
+                                        <a href="#">Blog</a>
+                                        <!-- Mobile Menu Dropdown Start -->
+                                        <ul>
+                                            <li>
+                                                <a href="blog.html">blog</a>
+                                            </li>
+                                            <li>
+                                                <a href="blog-details.html">Blog Details</a>
+                                            </li>
+                                        </ul>
+                                        <!-- Mobile Menu Dropdown End -->
+                                    </li>
+                                    <li>
+                                        <a href="#">pages</a>
+                                        <!-- Mobile Menu Dropdown Start -->
+                                        <ul>
+                                            <li>
+                                                <a href="about.html">about us</a>
+                                            </li>
+                                            <li>
+                                                <a href="account.html">My account</a>
+                                            </li>
+                                            <li>
+                                                <a href="register.html">register</a>
+                                            </li>
+                                            <li>
+                                                <a href="login.html">Login</a>
+                                            </li>
+                                            <li>
+                                                <a href="404.html">404</a>
+                                            </li>
+                                            <li>
+                                                <a href="forgot-password.html">forgot password</a>
+                                            </li>
+                                        </ul>
+                                        <!-- Mobile Menu Dropdown End -->
+                                    </li>
+                                    <li><a href="about.html">About Us</a></li>
+                                    <li><a href="contact.html">Contact Us</a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                        <!-- Mobile Menu End Here -->
+                </div>
+                 <!-- Container End -->
+            </div>
+        </header>
+        <!-- Header Area End Here -->
+        <!-- Breadcrumb Area Start Here -->
+        <div class="breadcrumb-area">
+            <div class="container">
+                <ol class="breadcrumb breadcrumb-list">
+                    <li class="breadcrumb-item">
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li class="breadcrumb-item active">services</li>
+                </ol>
+            </div>
+        </div>
+		
+		
+		
+		
+		
+		    
+		  <div class="skill-area ptb-80">
+   
+		 
+		 
+		 
+		        <div class="skill-area ptb-80">
+            <div class="container">
+                <div class="row" >
+                    <div class="col-lg-6">
+                        <div class="about-content mb-all-40">
+                           <!-- Section Title Start -->
+                            <div class="about-title">
+                                <h3>Mounting Manager</h3>
+                            </div>
+                            <!-- Section Title End -->
+                            <p class="mb-15">Bearing are precision parts and in order to preserve their accuracy and reliability it must be ensured that the bearings gets mounted in a proper manner. Depending on the mounting procedure, it is recommended that the handling procedures must be thoroughly understood before implementation.</p>
+                            <!-- <a class="login-btn" href="#">Read more</a> -->
+                        </div>
+                    </div>
+                        <div class="col-md-6">
+                         <!-- Single Bannner Start Here -->
+                        <div class="single-banner zoom" style="text-align:center;">
+                            <a href="shop.html"><img src="img/logo/ball-bearings-1236203_1280.png" alt="banner-img" style="height:300px; width:300px;"></a>
+                        </div>
+                        <!-- Single Bannner End Here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+		
+
+		
+
+		
+			  <div class="register-area  ptb-5">
+		    <div class="container">
+      
+		        <div class="row">
+		          <div class="col-xl-6" style="padding-top:30px;">
+					   <div class="register-contact  clearfix" style="height:520px;">
+               
+                         
+						  <div class="col-lg-12 col-md-12 mb-sm-40">
+                            <div class="single-footer">
+							
+							 
+                         
+                            <div class="support-desc">
+                                <h6 style="color:black; font-size:20px;">Handling of the Bearing Unit</h6>
+                              <div class="about-content mb-all-40">
+                           <!-- Section Title Start -->
+                            <div class="about-title">
+                            
+                            </div>
+                            <!-- Section Title End -->
+                            <p class="mb-15" style="color:black">In some cases, improper fits may lead to damage and shorten bearing life, therefore it is necessary to make a careful analysis in selecting a proper fit. 
+							</P>
+							
+							   <p class="mb-15" style="color:black">Some of the negative conditions caused by improper fits are :
+ 
+
+<br>1) Raceway cracking, early peeling and displacement of raceway.
+ 
+
+<br>2) Raceway and shafts or housing abrasion caused by creeping or fretting corrosion.
+ 
+
+<br>3) Seizing caused by loss of internal clearances.
+ 
+
+<br>4) Increased noise and lowered rotational accuracy due to raceway groove deformation.</p>
+                            <!-- <a class="login-btn" href="#">Read more</a> -->
+                        </div>
+                            </div>
+                   
+                            </div>
+                        </div>
+                        </div>
+		             </div>
+					
+					  <div class="col-xl-6" style="padding-top:30px;">
+					   <div class="register-contact  clearfix" style="height:520px;">
+               
+                         
+						  <div class="col-lg-12 col-md-12 mb-sm-40">
+                            <div class="single-footer">
+							
+							 
+                         
+                            <div class="support-desc">
+                                <h6 style="color:black; font-size:20px;">Proper Inspection</h6>
+                              <div class="about-content mb-all-40">
+                           <!-- Section Title Start -->
+                            <div class="about-title">
+                            
+                            </div>
+                            <!-- Section Title End -->
+                         <p class="mb-15" style="color:black;">Periodic inspections are necessary to ensure safe operation’s of the unit’s most important parts. While the interval between inspections varies from case to case, according to the degree of importance and the rate of operation, it is usually some time between two weeks and a month.</p>
+                            <!-- <a class="login-btn" href="#">Read more</a> -->
+							                            <p class="mb-15" style="color:black;">Since the inside of the bearing can be examined only by removing the slinger, seal, etc. The condition of the bearing should be judged by checking for the presence of vibration, noise, overheating of the housing, etc., while the machine is running.</p>
+                            <!-- <a class="login-btn" href="#">Read more</a> -->
+                        </div>
+                            </div>
+                   
+                            </div>
+                        </div>
+                        </div>
+		             </div>
+		        </div>
+		  
+		</div>
+		   </div>
+		
+	
+	
+	
+	
+	  <div class="register-area  ptb-10">
+		    <div class="container">
+         
+		        <div class="row">
+		          <div class="col-xl-6"  style="padding-top:30px;">
+					   <div class="register-contact  clearfix" style="height:520px;">
+               
+                         
+						  <div class="col-lg-12 col-md-12 mb-sm-40">
+                            <div class="single-footer">
+							
+							 
+                         
+                            <div class="support-desc">
+                                <h6 style="color:black; font-size:20px;">Bearing Internal Clearance</h6>
+                              <div class="about-content mb-all-40">
+                           <!-- Section Title Start -->
+                            <div class="about-title">
+                            
+                            </div>
+                            <!-- Section Title End -->
+                               <p class="mb-15" style="color:black;">Bearing internal clearance is the amount of internal clearance a bearing has before being installed on a shaft or in a housing. The internal clearance of a bearing under operating conditions is usually smaller than the same bearing’s initial clearance before being installed and operated. This is due to several factors including bearing fit, the difference in temperature between the inner and outer rings etc.
+							</P>
+							
+							   <p class="mb-15" style="color:black;">As a bearing’s operating clearance has an effect on bearing life, heat generation, vibration, noise, etc. Proper care must be taken in selecting the most suitable operating clearance.</p>
+                            <!-- <a class="login-btn" href="#">Read more</a> -->
+                            <!-- <a class="login-btn" href="#">Read more</a> -->
+                        </div>
+                            </div>
+                   
+                            </div>
+                        </div>
+                        </div>
+		             </div>
+					
+					  <div class="col-xl-6"  style="padding-top:30px;" >
+					   <div class="register-contact  clearfix" style="height:520px;">
+               
+                         
+						  <div class="col-lg-12 col-md-12 mb-sm-40">
+                            <div class="single-footer">
+							
+							 
+                         
+                            <div class="support-desc">
+                                <h6 style="color:black; font-size:20px;">Lubrication</h6>
+                              <div class="about-content mb-all-40">
+                           <!-- Section Title Start -->
+                            <div class="about-title">
+                            
+                            </div>
+                            <!-- Section Title End -->
+                         <p class="mb-15" style="color:black;">The purpose of bearing lubrication is to prevent direct metallic contact between the various rolling and sliding elements. This is accomplished through the formation of a thin oil (or grease) film on the contact surfaces.</p>
+                            <!-- <a class="login-btn" href="#">Read more</a> -->
+							                            <p class="mb-15" style="color:black;">For rolling bearings, lubrication also has the following advantages:
+														<br>1) Friction and wear reduction.
+ 
+
+<br>2) Friction heat dissipation.
+ 
+
+<br>3) Prolonged bearing life.
+ 
+
+<br>4) Prevention of rust.
+ 
+
+<br>5) Protection against harmful elements.</p>
+                        </div>
+                            </div>
+                   
+                            </div>
+                        </div>
+                        </div>
+		             </div>
+		        </div>
+		  
+		</div>
+		   </div>
+	
+			   </div>
+        <footer >
+           
+            <div class="footer-bottom text-center ptb-15 off-black-bg">
+                <p class="copyright">Copyright © <a href="#"></a> All right reserved</p>
+            </div>
+        </footer>
+        <!-- Footer Area End Here -->
+    </div>
+    <!-- Main Wrapper End Here -->
+
+    <!-- jquery 3.3.1 -->
+    <script src="js/vendor/jquery-3.3.1.min.js"></script>
+    <!-- Mobile menu js -->
+    <script src="js/jquery.meanmenu.min.js"></script>
+    <!-- ScrollUp js -->
+    <script src="js/jquery.scrollUp.js"></script>
+    <!-- Fancybox js -->
+    <script src="js/jquery.fancybox.min.js"></script>
+    <!-- Countdown js -->
+    <script src="js/jquery.countdown.min.js"></script>
+    <!-- Jquery nice select js -->
+    <script src="js/jquery.nice-select.min.js"></script>
+    <!-- Jquery ui price slider js -->
+    <script src="js/jquery-ui.min.js"></script>
+    <!-- Owl carousel -->
+    <script src="js/owl.carousel.min.js"></script>
+    <!-- Slick Slider -->
+    <script src="js/slick.min.js"></script>
+    <!-- Bootstrap popper js -->
+    <script src="js/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Plugin js -->
+    <script src="js/plugins.js"></script>
+    <!-- Main activaion js -->
+    <script src="js/main.js"></script>
+</body>
+
+
+<!-- Mirrored from d29u17ylf1ylz9.cloudfront.net/ponno/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 30 May 2020 12:40:33 GMT -->
+</html>
